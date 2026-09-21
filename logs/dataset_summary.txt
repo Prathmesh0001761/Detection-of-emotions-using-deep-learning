@@ -1,0 +1,9 @@
+Dataset Summary
+========================================
+  [0] angry     : 1184 samples
+  [1] disgust   : 1184 samples
+  [2] fear      : 1184 samples
+  [3] happy     : 1184 samples
+  [4] neutral   : 1376 samples
+  [5] sad       : 1184 samples
+  [6] surprise  : 384 samples

@@ -1,0 +1,14 @@
+.venv/
+.venv2/
+venv/
+env/
+__pycache__/
+*.py[cod]
+dataset/
+data/
+recordings/
+.vscode/
+.idea/
+Thumbs.db
+.env
+kaggle.json
